@@ -15,7 +15,7 @@
     "test": "mocha"
   },
   "devDependencies": {
-    "mocha": "8.1.2"
+    "mocha": "10.6.0"
   },
   "keywords": [
     "ethereum",
